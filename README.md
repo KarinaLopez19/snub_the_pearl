@@ -1,4 +1,5 @@
-# snub_the_pearl
+<img src="https://github.com/KarinaLopez19/snub_the_pearl/blob/main/documents/SNUB%20THE%20PEARL.png" width="200" height="200"> 
+
 ## Problem
 
 Many fashion companies draw attempts to establish ethical reputations by releasing statements on issues such as environmentalism. Despite the strong language, however, consumers are often skeptical of the messaging. Websites, such as Good on You, attempt to educate consumers of company practices; often identifying “greenwashing” statements through their platform. But educating oneself is a time-consuming process, so how could consumers become more aware of these so-called “green-washed” statements?
